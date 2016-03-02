@@ -26,6 +26,7 @@ namespace Jogo2DExemplo
             vida = 500;
             atk = 10;
             acerto = false;
+            Inimigos i;
 
         }
 
@@ -46,7 +47,13 @@ namespace Jogo2DExemplo
 
         public void Atk()
         {
+            acerto = true;
             if (acerto)
+            {
+
+            }
+              
+                
                 
         }
 
