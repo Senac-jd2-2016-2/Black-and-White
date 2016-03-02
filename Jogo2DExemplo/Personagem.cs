@@ -10,8 +10,12 @@ namespace Jogo2DExemplo
     class Personagem
     {
         public int x;
-
         public int y;
+        public int vida;
+        public int atk;
+        public bool acerto;
+        
+
 
         public Texture2D texture;
 
@@ -19,6 +23,10 @@ namespace Jogo2DExemplo
         {
             x = x1;
             y = y1;
+            vida = 500;
+            atk = 10;
+            acerto = false;
+
         }
 
         public Vector2 getVector()
@@ -31,10 +39,21 @@ namespace Jogo2DExemplo
             x += qtdPassos;
         }
 
-        public void moverY(int qtdPassos)
+        public void pulo()
         {
-            y += qtdPassos;
+
         }
+
+        public void Atk()
+        {
+            if (acerto)
+                
+        }
+
+        //public void moverY(int qtdPassos)
+        //{
+        //    y += qtdPassos;
+        //}
 
     }
 }
