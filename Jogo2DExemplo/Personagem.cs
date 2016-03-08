@@ -66,6 +66,13 @@ namespace Jogo2DExemplo
 
 
         }
+        public void GameOver()
+        {
+            if (vida == 0)
+            {
+
+            }
+        }
 
         //public void moverY(int qtdPassos)
         //{
