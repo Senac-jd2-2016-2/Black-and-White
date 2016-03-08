@@ -70,11 +70,11 @@ namespace Jogo2DExemplo
             {
                 if (k.Equals(Keys.Up))
                 {
-                    Contexto.jogador.moverY(-2);
+                    //Contexto.jogador.moverY(-2);
                 }
                 if (k.Equals(Keys.Down))
                 {
-                    Contexto.jogador.moverY(2);
+                    //Contexto.jogador.moverY(2);
                 }
                 if (k.Equals(Keys.Right))
                 {

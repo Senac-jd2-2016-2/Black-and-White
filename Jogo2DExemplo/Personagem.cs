@@ -56,6 +56,10 @@ namespace Jogo2DExemplo
                 
                 
         }
+        //public void dano(Inimigos i)
+        //{
+
+        //}
 
         //public void moverY(int qtdPassos)
         //{
