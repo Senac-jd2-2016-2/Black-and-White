@@ -26,7 +26,7 @@ namespace Jogo2DExemplo
             vida = 500;
             atk = 10;
             acerto = false;
-            Inimigos i;
+
 
         }
 
@@ -45,7 +45,7 @@ namespace Jogo2DExemplo
 
         }
 
-        public void Atk()
+        public void Atk(Inimigos i)
         {
             acerto = true;
             if (acerto)
@@ -56,10 +56,16 @@ namespace Jogo2DExemplo
                 
                 
         }
-        //public void dano(Inimigos i)
-        //{
+        public void dano(Inimigos i)
+        {
+            int t = i.tipo;
+            if (t == 1)
+                vida -= (vida / 10);
+            if (t == 2)
+                vida -= (vida / 5);
 
-        //}
+
+        }
 
         //public void moverY(int qtdPassos)
         //{
