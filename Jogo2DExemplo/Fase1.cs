@@ -11,9 +11,8 @@ namespace Jogo2DExemplo
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-
-
-
+        
+        
         public Fase1()
         {
             graphics = new GraphicsDeviceManager(this);
