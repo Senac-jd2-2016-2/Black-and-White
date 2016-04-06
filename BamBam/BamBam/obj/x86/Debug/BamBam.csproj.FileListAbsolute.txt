@@ -1,0 +1,58 @@
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\Content\FlorestaPNG.PNG
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\BamBam.exe
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\BamBam.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.xml
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\obj\x86\Debug\BamBam.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\obj\x86\Debug\BamBam.exe
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\obj\x86\Debug\BamBam.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\Content\BamBamPNG.png
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\Content\BamBamEsquerdaPNG.png
+c:\users\aluno\documents\visual studio 2013\Projects\BamBam\BamBam\bin\Windows\Debug\Content\ObstaculoPNG.png
+K:\BamBam\BamBam\bin\Windows\Debug\Content\FlorestaPNG.PNG
+K:\BamBam\BamBam\bin\Windows\Debug\Content\BamBamPNG.png
+K:\BamBam\BamBam\bin\Windows\Debug\Content\BamBamEsquerdaPNG.png
+K:\BamBam\BamBam\bin\Windows\Debug\Content\ObstaculoPNG.png
+K:\BamBam\BamBam\bin\Windows\Debug\BamBam.exe
+K:\BamBam\BamBam\bin\Windows\Debug\BamBam.pdb
+K:\BamBam\BamBam\bin\Windows\Debug\MonoGame.Framework.dll
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.dll
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.XAudio2.dll
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.Direct3D11.dll
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.DXGI.dll
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.Direct2D1.dll
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.XInput.dll
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.RawInput.dll
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.Direct3D9.dll
+K:\BamBam\BamBam\bin\Windows\Debug\MonoGame.Framework.xml
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.xml
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.XAudio2.xml
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.Direct3D11.xml
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.DXGI.xml
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.Direct2D1.xml
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.XInput.xml
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.RawInput.xml
+K:\BamBam\BamBam\bin\Windows\Debug\SharpDX.Direct3D9.xml
+K:\BamBam\BamBam\obj\x86\Debug\BamBam.csprojResolveAssemblyReference.cache
+K:\BamBam\BamBam\obj\x86\Debug\BamBam.exe
+K:\BamBam\BamBam\obj\x86\Debug\BamBam.pdb
